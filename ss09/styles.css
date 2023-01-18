@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+}
+
+div {
+    margin: 5px;
+}
+
+
+/* span {
+    display: none;
+} */
+
+p {
+    color: brown;
+}
+
+img {
+    height: 300;
+    width: 300;
+}
+
+#fifth p {
+    color: green;
+}
